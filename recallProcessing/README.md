@@ -1,1 +1,0 @@
-# fh-lamda-function
